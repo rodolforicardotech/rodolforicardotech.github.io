@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: Meu blog| My Blog
+description: Estudos, brain dumps e aleatoriedades | Studies, Brain Dump and Randomness
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
