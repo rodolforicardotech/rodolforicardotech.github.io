@@ -11,3 +11,4 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
+remote_theme: BDHU/minimalist
