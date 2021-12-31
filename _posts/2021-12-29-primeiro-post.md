@@ -1,7 +1,7 @@
 ---
 layout: post
 data: (29.12.2021) 
-title:  (test)"Olá, pessoal! Olá, mundo!"
+title:  (test) Olá, pessoal! Olá, mundo!
 author: Rodolfo Ricardo
 tags: blog
 category: blog
