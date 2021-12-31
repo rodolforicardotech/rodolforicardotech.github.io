@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testando Novo Layout"
+title:  (test) Testando Novo Layout
 author: Rodolfo Ricardo
 tags: blog
 category: blog
