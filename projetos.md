@@ -7,6 +7,7 @@
   <li>1 Exercício Por Dia - 2022</li>
 </ol>
 
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
