@@ -7,7 +7,6 @@
   <li>1 Exercício Por Dia - 2022</li>
 </ol>
 
-<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -24,12 +23,12 @@
   </head>
   <body>
 <div class="projetos">
-  <div class="box a">Iniciação Científica - Qualidade do Sono na Primeira Infância</div>
-  <div class="box b">B</div>
-  <div class="box c">C</div>
-  <div class="box d">D</div>
-  <div class="box e">E</div>
-  <div class="box f">F</div>
+  <div class="box a">Iniciação Científica</div>
+  <div class="box b">Salinas</div>
+  <div class="box c">1 Commit Por Dia</div>
+  <div class="box d">1 Exercício Por Dia</div>
+  <!--<div class="box e">E</div>
+  <div class="box f">F</div>-->
 </div>
   </body>
   </html>
