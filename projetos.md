@@ -3,7 +3,7 @@
 
 
 
-<html lang="{{ site.lang | default: "en-US" }}">
+<!--<html lang="{{ site.lang | default: "en-US" }}">-->
   <!--<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,7 +22,8 @@
   <a href="http://www.google.com"><div class="box a">Salinas           </div></a>
   <a href="http://www.google.com"><div class="box b">Iniciação Científica</div></a>
   <a href="http://www.google.com"><div class="box c">1 Commit por Dia</div></a>
-  <a href="http://www.google.com"><div class="box d">1 Exercício por Dia</div>
-</div></a>
-  </body>
-  </html>
+  <a href="http://www.google.com"><div class="box d">1 Exercício por Dia</div></a>
+</div>
+  
+  <!--</body>
+  </html>-->
