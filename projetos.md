@@ -24,12 +24,10 @@
   </head>
   <body>
 <div class="projetos">
-  <div class="box a">Iniciação Científica</div>
-  <div class="box b">Salinas</div>
-  <div class="box c">1 Commit Por Dia</div>
-  <div class="box d">1 Exercício Por Dia</div>
-  <!--<div class="box e">E</div>
-  <div class="box f">F</div>-->
-</div>
+  <a href="http://www.google.com"><div class="box a">Salinas           </div></a>
+  <a href="http://www.google.com"><div class="box b">Iniciação Científica</div></a>
+  <a href="http://www.google.com"><div class="box c">1 Commit por Dia</div></a>
+  <a href="http://www.google.com"><div class="box d">1 Exercício por Dia</div>
+</div></a>
   </body>
   </html>
