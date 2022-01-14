@@ -2,7 +2,7 @@
 layout: post
 title:  (notas) Como estudar por vídeos
 author: Rodolfo Ricardo
-tags: blog
+tags: notas, blog
 category: blog
 
 ---
