@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  (notes) Como escrever em blog - um estudo
+title:  (notas) Como escrever em blog - um estudo
 author: Rodolfo Ricardo
 tags: blog
 category: blog
