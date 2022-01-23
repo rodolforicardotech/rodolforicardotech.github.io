@@ -2,7 +2,7 @@
 layout: post
 title:  (test) Testando Novo Layout
 author: Rodolfo Ricardo
-tags: blog
+tags: teste
 category: blog
 ---
 Teste 03!
