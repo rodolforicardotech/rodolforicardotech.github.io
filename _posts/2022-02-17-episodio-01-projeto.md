@@ -6,7 +6,6 @@ tags: blog
 category: blog
 ---
 
-
 QUEM SOU EU?
 Olá! Sou Rodolfo Ricardo e dou início ao projeto Cientista de Dados em 2022.
 
@@ -49,5 +48,8 @@ PRÓXIMO EPISÓDIO:
 POR ONDE DEVO COMEÇAR?
 
 Vamos nessa!
+
+
+[![Episódio 01](https://img.youtube.com/vi/aSZz7eUbsRM/0.jpg)](https://youtu.be/aSZz7eUbsRM)
 
 
