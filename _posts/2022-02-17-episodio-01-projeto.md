@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Episódio 01 - Cientista de Dados em 2022
+title:  (projeto)Episódio 01 - Cientista de Dados em 2022
 author: Rodolfo Ricardo
 tags: blog
 category: blog
