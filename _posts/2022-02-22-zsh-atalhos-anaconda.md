@@ -4,7 +4,7 @@ title:  (post) ZSH - Adicionando atalhos e habilitando o Anaconda
 author: Rodolfo Ricardo
 tags: blog
 category: blog
--
+---
 
 O Zsh é um interpretador de comando, famoso terminal! No uso do Git, ajuda bastante na localização. Tudo colorido e estiloso!
 
