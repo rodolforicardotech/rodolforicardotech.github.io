@@ -6,14 +6,19 @@ tags: blog
 category: blog
 ---
 
-O Zsh é um interpretador de comando, famoso terminal! No uso do Git, ajuda bastante na localização. Tudo colorido e estiloso!
+O Zsh é um interpretador de comando, famoso terminal! 
 
-Utilizo alguns atalhos no meu terminal para facilitar a produtividade. Então, fui pesquisar como poderia fazer isso no ZSH.
+No uso do Git, ajuda bastante na localização. Tudo colorido e estiloso!
+
+Utilizo alguns atalhos no meu terminal para facilitar a produtividade. 
+
+Então, fui pesquisar como poderia fazer isso no ZSH.
 
 Simples! Abra o arquivo .zshsrc e nele adicione o atalho da seguinte forma:
 
 
 alias NOME_DO_ATALHO=CAMINHO_OU_COMANDO
+
 Recarregue e rode: source ~/.zshrc
 
 Simples!
