@@ -43,31 +43,36 @@ O vídeo do Data Hackers dá umas dicas bem legais:
 - Git e GitHub
 - Crie seu portfólio de projetos práticos!
 - Não espere ter todos os requisitos da vaga
+<br>
 Vamos nessa! :)
-Ah! Não esquece de me seguir nas redes sociais :)
-Instagram: http://instagram.com/rodolforicardotech
-LinkedIn: http://linkedin.com/in/rodolforicardotech
-GitHub: http://github.com/rodolforicardotech
-Lista de canais nacionais:
-Programação Dinâmica https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica
-Seja um data scientist https://www.youtube.com/c/SejaUmDataScientist
-Stack (Antigo Minerando Dados) https://www.youtube.com/c/Stack_tecnologias
-Jerry Strazzeri https://www.youtube.com/c/JerryMichelle
-Data Hackers https://www.youtube.com/c/DataHackers
-Mario Filho https://www.youtube.com/c/MarioFilhoML
-Let’s Data https://www.youtube.com/c/LetsDataAI
-Carlos Melo https://www.youtube.com/c/CarlosMeloSigmoidal
-**bônus**
-Um canal nacional arretado recomendado pelo professor Madson Dias. Não fala especificamente sobre Ciência de Dados, e sim, sobre Python: Dunossauro https://www.youtube.com/c/Dunossauro
-Lista de canais internacionais:
-Ken Jee
-Tina Huang
-Luke Barousse
-Joma Tech
-freeCodeCamp
-Shashank Kalanithi (Um dos melhores pra ver como um profissional trabalha! Erros, problemas, desafios. Adoro ver como ele consegue desenrolar um nó!)
-Keith Galli
-Krish Naik
-Daniel Bourke
-E por fim, o pai de todos: Kaggle!
+<br>
+Ah! Não esquece de me seguir nas redes sociais :)<br>
+Instagram: http://instagram.com/rodolforicardotech<br>
+LinkedIn: http://linkedin.com/in/rodolforicardotech<br>
+GitHub: http://github.com/rodolforicardotech<br>
+
+
+Lista de canais nacionais:<br>
+Programação Dinâmica https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica<br>
+Seja um data scientist https://www.youtube.com/c/SejaUmDataScientist<br>
+Stack (Antigo Minerando Dados) https://www.youtube.com/c/Stack_tecnologias<br>
+Jerry Strazzeri https://www.youtube.com/c/JerryMichelle<br>
+Data Hackers https://www.youtube.com/c/DataHackers<br>
+Mario Filho https://www.youtube.com/c/MarioFilhoML<br>
+Let’s Data https://www.youtube.com/c/LetsDataAI<br>
+Carlos Melo https://www.youtube.com/c/CarlosMeloSigmoidal<br>
+<br>**bônus**
+Um canal nacional arretado recomendado pelo professor Madson Dias. Não fala especificamente sobre Ciência de Dados, e sim, sobre Python: Dunossauro <br>https://www.youtube.com/c/Dunossauro<br>
+<br><br>Lista de canais internacionais:<br>
+Ken Jee<br>
+Tina Huang<br>
+Luke Barousse<br>
+Joma Tech<br>
+freeCodeCamp<br>
+Shashank Kalanithi (Um dos melhores pra ver como um profissional trabalha! Erros, problemas, desafios. Adoro ver como ele consegue desenrolar um nó!)<br>
+Keith Galli<br>
+Krish Naik<br>
+Daniel Bourke<br>
+E por fim, o pai de todos: Kaggle!<br>
 Vídeo Data Hackers:
+https://www.youtube.com/watch?v=K2Vu6E5Ybmo
