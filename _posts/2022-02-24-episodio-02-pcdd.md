@@ -8,7 +8,7 @@ category: blog projeto
 
 Iniciando a busca por referências de estudo, me deparei com uma enormidade de possibilidades, canais, materiais, trilhas.
 
-[![Episódio 02](https://img.youtube.com/vi/fTZ7luDi-c4/0.jpg)](https://www.youtube.com/watch?v=fTZ7luDi-c4)
+[![Episódio 02](https://img.youtube.com/vi/0G4eXmnCCt4/0.jpg)](https://youtu.be/0G4eXmnCCt4)
 
 AHHHHHHHHHHHHHH
 
