@@ -1,3 +1,10 @@
+---
+layout: post
+title:  (off) Então é Natal. O que você fez?
+author: Rodolfo Ricardo
+tags: blog
+category: blog
+---
 Bem, amigos. TERMINOU!
 
 Em breve, as cenas dos próximos capítulos desse ano de 2024!
