@@ -265,8 +265,8 @@
                     console.log(`Link clicked: ${linkType}`);
                     
                     // Here you would typically redirect to the actual URL
-                    window.open(href, '_blank');
-                    
+                    //window.open(href, '_blank');
+                    window.location.href = href;
                     // Show a demo message
                     showNotification(`${linkType} link clicked!`);
                 });
