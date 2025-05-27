@@ -254,6 +254,7 @@
                 button.addEventListener('click', function(e) {
                     e.preventDefault();
                     const linkType = this.getAttribute('data-link');
+                    const href = this.getAttribute('href')
                     
                     // Add click animation
                     this.style.transform = 'scale(0.95)';
